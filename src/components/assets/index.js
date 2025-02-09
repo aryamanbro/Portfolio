@@ -51,10 +51,10 @@ export {
   tailwind,
   typescript,
   threejs,
+  weather,
   orange,
   octave,
   anveshan,
- landing,
- password,
- weather,
+  landing,
+  password
 };
