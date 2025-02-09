@@ -25,9 +25,9 @@ import orange from './company/orange.png'
 import octave from './company/octave.png'
 import anveshan from './company/anveshan.png'
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import landing from './landing.png'
+import password from './password.png'
+import weather from './weather.png'
 
 export {
   logo,
@@ -54,7 +54,7 @@ export {
   orange,
   octave,
   anveshan,
-  carrent,
-  jobit,
-  tripguide,
+ landing,
+ password,
+ weather,
 };
