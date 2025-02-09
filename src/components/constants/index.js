@@ -234,12 +234,12 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "Bootstrap",
+          name: "Tailwind",
           color: "pink-text-gradient",
         },
       ],
       image: password,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://projects-kappa-three.vercel.app/",
     },
   ];
   
