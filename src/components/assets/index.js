@@ -27,7 +27,7 @@ import anveshan from './company/anveshan.png'
 
 import landing from './landing.png'
 import password from './password.png'
-import {weather} from './weather.png';
+import weather from './weather.png';
 
 export {
   logo,
