@@ -163,26 +163,26 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
+        "Aryaman’s projects demonstrate creativity and technical expertise. Highly recommend working with him!",
+      name: "ABC",
+      designation: "ABC",
+      company: "XYZ",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
+        "Aryaman’s projects demonstrate creativity and technical expertise. Highly recommend working with him!",
+      name: "ABC",
+      designation: "ABC",
+      company: "XYZ",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
+        "Aryaman’s projects demonstrate creativity and technical expertise. Highly recommend working with him!",
+      name: "ABC",
+      designation: "ABC",
+      company: "XYZ",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
@@ -191,11 +191,11 @@ import {
     {
       name: "Weather App",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A weather application with a modern landing page that displays real-time weather data using an external API. Users can view current temperature, weather conditions, and toggle between Celsius and Fahrenheit for convenience. The interface is clean and mobile-friendly.",
       tags: [
         {
           name: "Javascript",
-          color: "yellow-text-gradient",
+          color: "orange-text-gradient",
         },
        
         {
@@ -209,11 +209,11 @@ import {
     {
       name: "Landing Page",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A responsive landing page for Orange Infomedia, showcasing company services and information. It includes a navigation bar for seamless transitions between Home, About Us, Contact, and specialized service pages. The contact form allows users to leave messages for inquiries.",
       tags: [
         {
           name: "Javascript",
-          color: "yellow-text-gradient",
+          color: "orange-text-gradient",
         },
         {
           name: "Bootstrap",
@@ -227,7 +227,7 @@ import {
     {
       name: "Password Generator",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A simple and secure web-based tool that generates strong, random passwords to enhance online security. Users can customize the password length and choose character types (uppercase, lowercase, numbers, symbols) for personalized security needs. The landing page highlights the tool's functionality and user-friendliness.",
       tags: [
         {
           name: "Reactjs",

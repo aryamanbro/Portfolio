@@ -3,7 +3,7 @@ import {About,Contact,Experience,Feedbacks,Hero,Navbar,Tech,Works,StarsCanvas} f
 
 
 const App=()=> {
-
+  
   return (
     <>
       <BrowserRouter>
