@@ -25,7 +25,9 @@ const Contact = () => {
   const handleSubmit=(e)=>{
     e.preventDefault();
     setLoading(true);
-
+    console.log(import.meta.env.VITE_service);
+    console.log(import.meta.env.VITE_template);
+    console.log(import.meta.env.VITE_api_key);
     emailjs.send(
       `${import.meta.env.VITE_service}`,
       `${import.meta.env.VITE_template}`,
